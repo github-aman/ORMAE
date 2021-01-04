@@ -1,4 +1,4 @@
-# ORMAE
+# ORMAE ASSIGNMENT
 This repo contains the test given by ORMAE
 
 Objectives:- 
